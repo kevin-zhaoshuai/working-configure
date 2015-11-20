@@ -1,0 +1,3 @@
+[submodule "monaco"]
+	path = monaco
+	url = https://github.com/cstrap/monaco-font.git
